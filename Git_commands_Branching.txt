@@ -24,3 +24,9 @@ to accss to root
 
 To install git on linux (Amazon)
 - yum install git 
+
+
+--------------------------------------------------------------------------
+copy
+
+
