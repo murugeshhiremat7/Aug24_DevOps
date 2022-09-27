@@ -2,3 +2,6 @@
 sudo su 
 yum update -y
 yum install java-11 -y 
+yum install httpd -y
+service httpd start
+service httpd stop
